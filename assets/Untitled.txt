@@ -1,0 +1,36 @@
+<div class="row justify-content-center">
+            <div class="col">
+              <div class="row mb-4">
+                <div class="col-5  col-xs-12 justify-content-center" style="background-color: #3E5A3D; text-align: right;">
+                    <img src="images/map.jpg" alt="" class="mb-3" style="border-radius: 0 100px 0 100px; width: 280px; height: 400px;" > <br>
+                    <img src="images/2hands.jpg" alt="" style="border-radius: 100px 0px 100px 100px; width: 200px; height: 200px;" class="me-5">
+                </div>
+                <div class="col-5 col-xs-12">
+                  <img src="images/hand.jpg" alt="" style="border-radius: 100px 100px 100px 0px; width: 200px; height: 200px;" class=" mb-3 ms-5"> <br>
+                  <img src="images/house.jpg" alt="" style="border-radius: 0 100px 0 100px;  width: 280px; height: 400px;">
+              </div>
+              </div>
+
+    
+            </div>
+
+          </div>
+
+
+
+
+          <div>
+                    <img src="images/key-svgrepo-com.svg" alt="" class="img-fluid" 
+                    style=" width: 40px; height: 40px; margin-bottom: -150px; margin-left: 50px;" > <br>
+                    <img src="images/left-up-direction-3-svgrepo-com.svg" alt="" 
+                     style="width: 200px; height: 210px; margin-left: px;"><br>
+                    <img src="images/microsoft-svgrepo-com.svg" alt="" style="width: 50px; height:50px; margin-top: -150px ; margin-left: 50px;">
+                  </div>
+                  <div class="mt-5 pt-4" style=" margin-left: -50px;">
+                    <img src="images/letter-u-svgrepo-com.svg" alt="" style="width: 150px; height: 100px; margin-top: 40px;"><br>
+                    <img src="images/number-1-svgrepo-com.svg" alt="" style="width: 40px; height: 20px; margin-left: 53px; margin-top: -150px;">
+                  </div>
+                  <div class="mt-5 pt-4" style=" margin-left: -50px;" >
+                    <img src="images/home-1.svg" alt="" style="width: 40px;height: 40px; margin-left: 50px;"><br>
+                    <img src="images/menu-button-of-three-horizontal-lines-svgrepo-com.svg" alt="" style="width: 150px; height: 100px;">
+                  </div>
